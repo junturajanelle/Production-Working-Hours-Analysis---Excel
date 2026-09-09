@@ -20,3 +20,6 @@ To evaluate labor efficiency, resource allocation, and budget performance across
 - Staff Breakdown Charts: Built clear charts showing job roles (Cameraman, Coordinator, Assistant) split by gender.
 - Easy-to-Read Charts: Placed graphs neatly side by side so management can spot problems in seconds.
 
+## Dashboard
+<img width="1240" height="632" alt="Dashboard" src="https://github.com/user-attachments/assets/a00a04ca-7850-47de-a07e-90539198b4ea" />
+
