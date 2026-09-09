@@ -5,7 +5,7 @@ To evaluate labor efficiency, resource allocation, and budget performance across
 ## Dataset Used
 - <a href="https://github.com/junturajanelle/Production-Working-Hours-Analysis---Excel/blob/main/production%20working%20hours%20analysis%20data%20-%20raw.xlsx"> Production Working Hours Analysis Raw Data</a>
 ## Key Contributions & Achievements
-- 1. Data Setup & Pivot Tables
+1. Data Setup & Pivot Tables
 •	Grouped Big Data: Grouped information for 252 employees across 3 divisions and 9 cities into clean Pivot Tables.
 •	Calculated Costs & Hours: Used Pivot Table formulas to quickly compare planned hours versus real worked hours, as well as budget versus total earnings.
 •	Added Easy Filters: Added Division and City slicer buttons so users can click and filter the whole dashboard in real time.
