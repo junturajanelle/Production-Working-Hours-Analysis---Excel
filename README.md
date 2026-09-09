@@ -23,3 +23,10 @@ To evaluate labor efficiency, resource allocation, and budget performance across
 ## Dashboard
 <img width="1240" height="632" alt="Dashboard" src="https://github.com/user-attachments/assets/a00a04ca-7850-47de-a07e-90539198b4ea" />
 
+## Key Insights
+- Overall Budget & Hour Variance: Total worked hours (368,148 hrs) exceeded planned hours (351,305 hrs) by 16,843 hours. Consequently, total earned payouts (₹30,130,440) surpassed the allocated budget (₹28,783,866) by ₹1,346,574, largely driven by high overtime costs (21,218 overtime hours totaling ₹2,746,761).
+- Division Workload Trends: The Photography division represents most operations (264,960 worked hours vs. 256,738 planned hours), earning ₹22,967k against an allocated budget of ₹22,265k. Both Management and Supporting divisions also consistently exceeded their planned hours.
+- Overtime Spikes Among Specific Roles & Individuals: Overtime hours are unevenly distributed among staff. Certain individuals such as Ella, Sebas, and Amy exceed 2,500 overtime hours each, indicating a heavy reliance on a small cluster of employees rather than balanced team capacity.
+- Gender Representation in Key Job Roles: Male employees make up most of the workforce (132 male vs. 120 female). While Cameraman roles maintain a relatively balanced split (96 male, 84 female), the coordinator role is entirely female (24), and Assistant roles skew predominantly male (36 male, 12 female).
+- Geographic Cost Disparities: Toronto and Tokyo record the highest overtime earnings (₹539k each), followed by Berlin (₹324k) and Barcelona (₹310k), driving up regional production expenses.
+
