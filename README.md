@@ -4,4 +4,19 @@ To evaluate labor efficiency, resource allocation, and budget performance across
 
 ## Dataset Used
 - <a href="https://github.com/junturajanelle/Production-Working-Hours-Analysis---Excel/blob/main/production%20working%20hours%20analysis%20data%20-%20raw.xlsx"> Production Working Hours Analysis Raw Data</a>
-- Dataset Retrived from https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rVF9xMWE3dnk1YnlYbnFOcWZDN3FNNHxBTl9pYzRjWGs1LW9PU3pzZWNlTlZLWUNsdzdKMkZCLU9QOHJ2STIxVEpTUHpEZ3BIMTloVHhQRzBTX25uSW91b054NmwyWldTajZwRTZyMTVabnBrVUxFMWdrVlZfRzhTZ1Z6&q=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Ddownload%26id%3D14GvAZ8G2NeETqgZADnPkhYjLfYX4FTv6&v=LGUyZ8UgBzQ
+## Key Contributions & Achievements
+- 1. Data Setup & Pivot Tables
+•	Grouped Big Data: Grouped information for 252 employees across 3 divisions and 9 cities into clean Pivot Tables.
+•	Calculated Costs & Hours: Used Pivot Table formulas to quickly compare planned hours versus real worked hours, as well as budget versus total earnings.
+•	Added Easy Filters: Added Division and City slicer buttons so users can click and filter the whole dashboard in real time.
+
+2. Cost & Workforce Insights
+•	Spotted Overtime Waste: Found that ₹2.74M was spent on overtime because a few workers (Ella, Sebas, Amy) were given too many extra hours.
+•	Found Budget Overspends: Showed that actual work hours were 16,843 hours higher than planned, leading to a ₹1.35M budget loss.
+•	Tracked Lost Time: Identified 9,086 unused shortfall hours (costing ₹1.05M), showing where paid time was wasted.
+
+3. Clear Dashboard Layout
+•	Top Summary Cards: Created simple scorecard boxes at the top to show key numbers (Total Staff, Hours, Shortfall, Overtime, Budget) immediately.
+•	Staff Breakdown Charts: Built clear charts showing job roles (Cameraman, Coordinator, Assistant) split by gender.
+•	Easy-to-Read Charts: Placed graphs neatly side by side so management can spot problems in seconds.
+
