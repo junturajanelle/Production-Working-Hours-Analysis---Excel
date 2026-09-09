@@ -30,3 +30,8 @@ To evaluate labor efficiency, resource allocation, and budget performance across
 - Gender Representation in Key Job Roles: Male employees make up most of the workforce (132 male vs. 120 female). While Cameraman roles maintain a relatively balanced split (96 male, 84 female), the coordinator role is entirely female (24), and Assistant roles skew predominantly male (36 male, 12 female).
 - Geographic Cost Disparities: Toronto and Tokyo record the highest overtime earnings (₹539k each), followed by Berlin (₹324k) and Barcelona (₹310k), driving up regional production expenses.
 
+## Recommendations
+- Rebalance Workload to Reduce High Individual Overtime: Reassign tasks from top overtime performers (Ella, Sebas, Amy) to underutilized staff (Mia, Lilly, Aiden, Dani, David, Jose, Sam, Willi) to mitigate employee burnout and lower premium overtime expenses (₹2.74M).
+- Address Regional Overtime Inefficiencies: Conduct an operational audit in high-cost hubs like Toronto and Tokyo to determine whether overtime stems from unrealistic, planned targets, local staffing shortages, or workflow bottlenecks.
+- Recalibrate Planned Hours Baseline: Adjust future budget allocations for the Photography division to reflect actual labor demands, closing the 8,222-hour gap between planned and actual worked hours.
+- Eliminate Shortfall Hours: Investigate the root causes behind the 9,086 shortfall hours (costing ₹1,052,713 in lost productivity) to ensure scheduled hours are fully utilized before incurring additional overtime costs.
